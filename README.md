@@ -5,4 +5,8 @@
 <h6>the phone i used for 2FA dropped at a very specific angle and refuses to boot ever since</h6>
 
 <h1> About me</h1>
-* 
+<ul>
+  <li> 🏳️‍⚧️, Pansexual, 16y/o</li>
+  <li> Sucker for rhythm games and modern Tetris</li>
+  <li> Losing sanity</li>
+</ul>
